@@ -10,3 +10,6 @@ Model include 5 code file
 4.Models Comparison_ Random Forest _ Logistis Regression _ Gradient Boosting_4
 5.Prediction Data  Random Forest_5
 
+Project report 
+
+Text_Mining and_Sentiment_Analysis_P8_2022_ER_967585
