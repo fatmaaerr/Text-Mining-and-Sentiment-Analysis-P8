@@ -4,15 +4,11 @@ The goal of this project is to develop a model that can predict emotions in text
 
 Model include 5 code file 
 
-1.Tweet_Emotions_Data_Preprossesing_1
+1.Twitter_Preprosesing_Final
 
-2.Convokit_Movie_Corpus_Data_Processing_2
+2.Convokit_Movie_Corpus_Data_Processing_Final
 
-3.Models Comparison_LogisticRegression _ LSTM_3
-
-4.Models Comparison_ Random Forest _ Logistis Regression _ Gradient Boosting_4
-
-5.Prediction Data  Random Forest_5
+3.Models Comparison and Prediction
 
 Project report 
 
