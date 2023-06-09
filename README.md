@@ -2,7 +2,7 @@
 
 The goal of this project is to develop a model that can predict emotions in text using the Emotion Detection from Text dataset as a training set. The emotions can be represented as categorical classes or in a continuous space such as ValenceArousal-Dominance. The model will be used to analyze the emotional profiles of main characters in a movie from the Cornell Movie-Dialogs Corpus, and to observe how these profiles change over time and are influenced by the characters' relationships.
 
-Model include 5 code file 
+Model includes;
 
 1.Twitter_Preprosesing_Final
 
